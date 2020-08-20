@@ -4,8 +4,8 @@ import simplegui
 import random
 
 # initialize globals - pos and vel encode vertical info for paddles
-width = 600
-height = 400       
+width = 650
+height = 450       
 ball_radius = 20
 pad_width = 8
 pad_height = 80
